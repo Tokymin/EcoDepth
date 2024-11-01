@@ -2,7 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+checkpoints
+index.html
+*.html
+*.htm
+.idea
+data/*
+*.npy
 # C extensions
 *.so
 
